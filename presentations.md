@@ -16,7 +16,7 @@ Developed and facilitated interactive sessions at the following key State and Na
 
 * HISD Multilingual Symposium
 
-### Presentations ###
+### Select Presentations ###
 
 * **Keep Calm and Tech-On: Unleashing the Power of Technology in Your EL Classroom**  
 Can't get your students of their phones? Put that technology obsession to work by adapting your teaching for the next generation of students. This session will highlight how you can incorporate technology within your lesson to build an effective digital learning environment for your EL scholars. You'll learn about specific apps, sites, QR codes, and other resources that foster creativity and collaboration within your content area.  
