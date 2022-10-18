@@ -8,13 +8,13 @@ title: Presentations
 
 Developed and facilitated an interactive session on how to integrate technology in the classroom at the following key State and National conferences:
 
-* **2017 Title III Symposium**
+* 2017 Title III Symposium
 
-* **Association of Latino Administrators and Superintendents (ALAS) National Education Summit**
+* Association of Latino Administrators and Superintendents (ALAS) National Education Summit
 
-* **TexTESOL IV State Conference**
+* TexTESOL IV State Conference
 
-* **Region 4 Education Service Center Conference**
+* Region 4 Education Service Center Conference
 
 **Session Information**
 
