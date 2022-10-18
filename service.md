@@ -3,9 +3,7 @@ layout: page
 title: Service
 ---
 
-<center>
-<p> <img src="assets/hannah-busing-unsplash photo.jpg" width="200"> </p>
-</center>
+<img src="assets/hannah-busing-unsplash photo.jpg" width="200">
 
 * **Volunteer at IGNITE Texas: Political Power in Every Young Woman**
 
