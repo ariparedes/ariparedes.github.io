@@ -2,6 +2,8 @@
 layout: home 
 ---
 
+<img src="assets/AParedesPhoto.png" width="220">
+
 **About Me**
 
 I'm an EdTech Customer Success Leader with over 10 years of experience in K-12 eduation. I'm all about leadership development, customer success, education, and delivering professional development and workshop opportunities that educate and unite leaders, organizations, and communities.
