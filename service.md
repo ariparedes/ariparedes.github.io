@@ -3,6 +3,10 @@ layout: page
 title: Service
 ---
 
+<center>
+<p> <img src="assets/hannah-busing-unsplash photo.jpg" width="200"> </p>
+</center>
+
 * **Volunteer at IGNITE Texas: Political Power in Every Young Woman**
 
 IGNITE is a non-profit organization delivering programs in high schools and colleges that motivate young women to become civically engaged, respond to issues, and ultimately pursue elective office. IGNITE provides political and civic education, exposure to women in political leadership, hands on training opportunities, and more.
