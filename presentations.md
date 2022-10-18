@@ -12,7 +12,7 @@ Developed and facilitated interactive sessions at the following key Regional, St
 
 * TexTESOL IV State Conference
 
-* Region 4 Education Service Center Conference
+* Region 4 Bilingual/ESL Conference
 
 * HISD Multilingual Symposium
 
