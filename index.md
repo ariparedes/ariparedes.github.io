@@ -17,8 +17,8 @@ ChurnZero l Salesforce l Jira l ZenDesk l FileZilla l ShareFile l Small Improvem
 * Developing the right customer journeys and strategic action plans that drive value and satisfaction
 * Automating and personalizing engagement, at scale
 * Increasing adoption and expansion of impactful products and features
-* Collaborate with team members to improve processes and efficiencies
-* Build strong partnerships with key stakeholders to promote capacity and long-term imapct
+* Collaborating with team members to improve processes and efficiencies
+* Building strong partnerships with key stakeholders to promote capacity and long-term imapct
 
 **Languages**
 
