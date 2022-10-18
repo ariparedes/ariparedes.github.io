@@ -2,7 +2,9 @@
 layout: home 
 ---
 
-<img src="assets/AParedesPhoto.png" width="220" class="center">
+<center>
+<p> <img src="assets/AParedesPhoto.png" width="220"> </p>
+</center>
 
 **About Me**
 
