@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Conferences
+title: Presentations
 ---
 <img src="assets/APconferencephoto.png" width="350">
+
+**Conferences**
 
 Developed and facilitated an interactive session on how to integrate technology in the classroom at key State and National conferences.
 
