@@ -19,3 +19,8 @@ minima:
   social_links:
     twitter: paredes_a1
     linkedin: ariadneparedes
+    
+header_pages:
+ - resume.md
+ - presentations.md
+ - service.md
