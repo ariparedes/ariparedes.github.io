@@ -6,6 +6,7 @@ title: Service
 <img src="assets/hannah-busing-unsplash photo.jpg" width="200">
 
 * **Houston Food Bank**
+
 The Houston Food Bank distributes food and essentials to individuals in need and provides programs and services related to educate, train, and support families from over 18 counties in the Southeast Texas area.
 
 * **Mentor at DFW International Community Alliance**
