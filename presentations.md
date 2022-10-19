@@ -20,7 +20,7 @@ Developed and facilitated interactive sessions at the following key Regional, St
 
 * **Keep Calm and Tech-On: Unleashing the Power of Technology in Your EL Classroom**  
 Can't get your students of their phones? Put that technology obsession to work by adapting your teaching for the next generation of students. This session will highlight how you can incorporate technology within your lesson to build an effective digital learning environment for your EL scholars. You'll learn about specific apps, sites, QR codes, and other resources that foster creativity and collaboration within your content area.  
-[[Online Resource Shared](https://sites.google.com/view/digitalresources)]
+[[Online Resource](https://sites.google.com/view/digitalresources)]
 
 * **Data-Driven ESL Instruction**  
 Learn how to intentially boost your lessons and implement classroom best practices by focusing on assessing your students' learning and analyzing key data that can better inform your instruction. In this session, you will learn about the SITI Framework, guiding questions, and strategies to use when developing data-driven lessons.
