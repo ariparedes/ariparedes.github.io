@@ -24,3 +24,6 @@ header_pages:
  - resume.md
  - presentations.md
  - service.md
+
+# Google Analytics
+google_analytics: UA-246160386-1
