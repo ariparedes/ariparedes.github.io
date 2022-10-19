@@ -12,7 +12,7 @@ My goal is to expand my work and reach, providing high quality support to organi
 
 ChurnZero l Salesforce l Jira l ZenDesk l FileZilla l ShareFile l Small Improvements l Slack l Zoom l TEAMS l GSuite l MS Office
 
-**My professional interests include:**
+## Professional Interests ##
 
 * Developing the right customer journeys and strategic action plans that drive value and satisfaction
 * Automating and personalizing engagement, at scale
