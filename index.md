@@ -1,7 +1,7 @@
 ---
 layout: home 
 ---
-<img src="assets/AParedesPhoto.png" width="140">
+<img src="assets/AParedesPhoto.png" width="150">
 
 **About Me**
 
