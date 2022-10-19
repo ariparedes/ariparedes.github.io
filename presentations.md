@@ -2,7 +2,7 @@
 layout: page
 title: Presentations
 ---
-<img src="assets/APconferencephoto.png" width="350">
+<img src="assets/APconferencephoto.png" width="250">
 
 ### Conferences ###
 Developed and facilitated interactive sessions at the following key Regional, State, and National conferences:  
