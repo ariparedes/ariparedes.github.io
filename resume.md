@@ -2,5 +2,5 @@
 layout: redirect
 title: Resume
 permalink: /resume/
-redirect: ../assets/AriadneParedes_Resume.pdf
+redirect: ../assets/Ariadne_Paredes_Resume.pdf
 ---
