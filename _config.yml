@@ -17,8 +17,8 @@ remote_theme: jekyll/minima
 
 minima:
   social_links:
-    - { platform: twitter, user_url: "https://twitter.com/paredes_a1" }
     - { platform: linkedin,  user_url: "https://www.linkedin.com/in/ariadneparedes/" }
+    - { platform: twitter, user_url: "https://twitter.com/paredes_a1" }
    # twitter: paredes_a1
     # linkedin: ariadneparedes
     
