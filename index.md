@@ -23,4 +23,4 @@ Leadership l Customer Success l Project Management l Problem Solving l Data Anal
 
 ## Languages ##
 
-Spanish (Native) l French (Conversational)
+Spanish (Fluent) l French (Conversational)
