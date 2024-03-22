@@ -5,9 +5,9 @@ layout: home
 
 ## About Me ##
 
-I am a dedicated Customer Success Manager who's all about elevating customer experiences. My journey in customer success is fueled by a genuine desire to understand and exceed the unique needs of each partner and turn every interaction into a memorable journey for them. Organized and detail-oriented, I bring structure to the dynamic world of customer relationships. Whether it's crafting personalized solutions or anticipating challenges, I take pride in creating experiences that foster trust and loyalty. My toolkit also includes a keen understanding of industry trends and innovative problem-solving. I am driven by the belief that every obstacle is an opportunity for growth, and I bring this mindset to every aspect of my role.
+I am a Customer Success Manager who's all about elevating customer experiences and staying at the forefront of customer success strategies. My journey in customer success is fueled by a desire to understand and exceed the unique needs of each partner and turn every interaction into a memorable journey for them.
 
-My goal is to now expand my work and reach, continuing to provide high quality support to organizations, leaders, and partners nation-wide, so that they can be empowered and successful in their work. I strongly believe in the importance and impact of quality service, relationship building, and helping stakeholders achieve their full potential, so I am committed to staying at the forefront of customer success strategies and industry trends.
+Whether it's crafting personalized solutions or anticipating challenges, I take pride in creating experiences that foster trust and loyalty. My toolkit also includes a keen understanding of industry trends and innovative problem-solving. I am driven by the belief that every obstacle is an opportunity for growth, and I bring this mindset to every aspect of my role.
 
 ## Skills ##
 
