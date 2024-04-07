@@ -24,8 +24,8 @@ minima:
     
 header_pages:
  - resume.md
- - presentations.md
  - certifications.md
+ - presentations.md
  - service.md
 
 # Google Analytics
