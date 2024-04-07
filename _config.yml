@@ -7,7 +7,7 @@ github_username:  ariparedes
 plugins:
   - jekyll-relative-links
 
-title: Ariadne Paredes
+title: Ariadne Paredes, MBA
 
 relative_links:
   enabled: true
