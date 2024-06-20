@@ -13,6 +13,13 @@ Issued June 2024
 ### HubSpot Inbound Certification ###
 HubSpot Academy - 
 Issued Jan 2024 · Expires Feb 2026
+<!-- Begin: HubSpot Academy - Inbound Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/9hn0yhly/en/1/ariadne-paredes/inbound' title='Inbound'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/3b00d7d5dfa3456e8c298f0d95dd585d.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Badge -->
 
 <img src="assets/CompTia CTT+ Logo.png" width="250">
 ### CompTIA CTT+ (Certified Technical Trainer) Certification ###
