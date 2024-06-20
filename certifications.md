@@ -7,6 +7,8 @@ title: Certifications
 Coursera - 
 Issued June 2024
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc7601c3-51d0-4a82-9bc4-3f672575c349" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <img src="assets/Hubspot Inbound Logo.png" width="250">
 ### HubSpot Inbound Certification ###
 HubSpot Academy - 
