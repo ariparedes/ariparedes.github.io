@@ -2,12 +2,10 @@
 layout: page
 title: Certifications
 ---
-<!--
 <img src="assets/Google Analytics Logo.png" width="250">
-### Google Analytics Certification ###
+### Google Data Analytics Certification ###
 Coursera - 
-Issued April 2024
--->
+Issued June 2024
 
 <img src="assets/Hubspot Inbound Logo.png" width="250">
 ### HubSpot Inbound Certification ###
